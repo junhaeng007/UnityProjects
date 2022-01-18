@@ -32,7 +32,7 @@
 
 3. 추가된 스킬들 중 일부는 버튼이 활성화됐을 때 추가 입력을 통해 공격하는 스킬이 있다.
     
-    ![0_2_Gif_00](https://github.com/junhaeng007/ImageStore/blob/master/0_2_Gif_00.gif?raw=true)
+    ![0_2_Gif_00](https://github.com/junhaeng007/UnityProjects/blob/main/BattleStarsStadium/PatchNote/0.2%20Pre-Alpha/0_2_Gif_00.gif?raw=true)
 
 4. 가드의 스테미너 소모 변경
     - ~~첫 가드시 스테미너 20 소모~~ **삭제**
@@ -43,19 +43,19 @@
 1. 캐릭터들의 궁극기가 추가되었다
     - **손오공** : 원기옥
         -  차징하여 기를 모은 거대한 에너지탄을 대각선 아랫 방향으로 던진다.
-    ![0_2_Gif_01](https://github.com/junhaeng007/ImageStore/blob/master/0_2_Gif_01.gif?raw=true)
+    ![0_2_Gif_01](https://github.com/junhaeng007/UnityProjects/blob/main/BattleStarsStadium/PatchNote/0.2%20Pre-Alpha/0_2_Gif_01.gif?raw=true)
 
     - **베지터**: 지저분한 불꽃놀이
         - 러쉬 콤비네이션(E)과 비슷하게 공격하다가 상대방을 대각선 위로 날려버린 후 상대방 포함 주변까지 데미지를 입히는 강력한 폭발을 일으킨다.
-    ![0_2_Gif_02](https://github.com/junhaeng007/ImageStore/blob/master/0_2_Gif_02.gif?raw=true)
+    ![0_2_Gif_02](https://github.com/junhaeng007/UnityProjects/blob/main/BattleStarsStadium/PatchNote/0.2%20Pre-Alpha/0_2_Gif_02.gif?raw=true)
 
     - **사스케** : 기린
         - 맵 전범위를 커버하는 강력한 뇌둔 술법으로 공격한다.
-    ![0_2_Gif_03](https://github.com/junhaeng007/ImageStore/blob/master/0_2_Gif_03.gif?raw=true)
+    ![0_2_Gif_03](https://github.com/junhaeng007/UnityProjects/blob/main/BattleStarsStadium/PatchNote/0.2%20Pre-Alpha/0_2_Gif_03.gif?raw=true)
 
     - **이치고** : 호로화 잠식
         - 내면의 호로가 잠시동안 잠식하여 넉백공격 후 거대한 검은 월아천충을 발사한다.
-    ![0_2_Gif_04](https://github.com/junhaeng007/ImageStore/blob/master/0_2_Gif_04.gif?raw=true)
+    ![0_2_Gif_04](https://github.com/junhaeng007/UnityProjects/blob/main/BattleStarsStadium/PatchNote/0.2%20Pre-Alpha/0_2_Gif_04.gif?raw=true)
 
 2. **이치고**의 각오(E) 변경
     - 각오의 강화 효과는 각오 스킬의 시전이 완전히 완료되어야 적용된다.
