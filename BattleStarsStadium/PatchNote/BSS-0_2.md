@@ -53,7 +53,7 @@
     ![0_2_Gif_01](https://github.com/junhaeng007/UnityProjects/blob/main/BattleStarsStadium/PatchNote/0.2%20Pre-Alpha/0_2_Gif_01.gif?raw=true)
 
     - **베지터**: 지저분한 불꽃놀이
-        - 러쉬 콤비네이션(E)과 비슷하게 공격하다가 상대방을 대각선 위로 날려버린 후 상대방 포함 주변까지 데미지를 입히는 강력한 폭발을 일으킨다.
+        - 콤보 공격 후 상대방을 대각선 위로 날려버리고 상대방 포함 주변까지 데미지를 입히는 강력한 폭발을 일으킨다.
     ![0_2_Gif_02](https://github.com/junhaeng007/UnityProjects/blob/main/BattleStarsStadium/PatchNote/0.2%20Pre-Alpha/0_2_Gif_02.gif?raw=true)
 
     - **사스케** : 기린
